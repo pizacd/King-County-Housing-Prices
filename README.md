@@ -1,6 +1,6 @@
 # **Predicting Seattle Housing Prices**
 
-[LinkedIn](https://www.linkedin.com/in/douglas-pizac-ms/)\n
+[LinkedIn](https://www.linkedin.com/in/douglas-pizac-ms/)
 [Kaggle](https://www.kaggle.com/pizacd)
 
 Found a dataset on housing prices in King County, WA on [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
